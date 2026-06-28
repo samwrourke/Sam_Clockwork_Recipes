@@ -1,0 +1,22 @@
+{
+	"type": "create:mechanical_crafting",
+	"pattern": [
+		"B B ",
+		"ACSD",
+		" WP "
+	],
+	"key": {
+		"B": { "item": "create:andesite_bars" },
+		"A": { "item": "create:andesite_alloy_block" },
+		"C": { "item": "create:brass_casing" },
+		"S": { "item": "create:sequenced_gearshift" },
+		"D": { "item": "create:mechanical_drill" },
+		"W": { "item": "create:cogwheel" },
+		"P": { "item": "create:precision_mechanism" }
+	},
+	"result": {
+		"count": 1,
+		"item": "vs_clockwork:handheld_drill"
+	},
+	"acceptMirrored": true
+}
