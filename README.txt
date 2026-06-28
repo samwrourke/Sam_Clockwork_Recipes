@@ -1,0 +1,1 @@
+A small datapack to add recipes to Clockwork's handheld drill and saw, which are currently unobtainable in survival. Requires Create and VS Clockwork. The tools can now be made with mechanical crafting and require precision mechanisms.
